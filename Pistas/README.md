@@ -20,4 +20,4 @@ KrJHH1SMBLiII2wCHONjq1shwSgwhneTJIQ4oYXKDOu=
 Recuerda usar la llave encontrada al inicio del reto para el cifrado vigenere, el resto para obtener la contraseña te lo dejo a ti.
 El usuario tien dos letras en mayuscula, lo demas en minuscula.
 
-![holiday](/images/intercepted.jpg)
+![holiday](/images/intercepted.webp)
