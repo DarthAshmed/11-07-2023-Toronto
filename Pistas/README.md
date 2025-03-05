@@ -11,7 +11,8 @@ Solo aquellos con habilidades avanzadas podrán acceder.
 
 ## 📡 Transmisión interceptada
 
-KrJHH1SMBLiII2wCHONjq1shwSgwhneTJIQ4oYXKDOu=
+=0zZzkFdax2V0oEVXZEbUJFbO5WUVRmVNNEasVVVo1WTahWRjdlRxQ1TaZlV
+
 -.-. .- .-. --- .-.. -.. .- -. ...- . .-. ...
 
 **Pistas:**
